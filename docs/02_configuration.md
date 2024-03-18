@@ -10,7 +10,7 @@ TOC
 # Configuration
 This section only applies to standard version which uses WiFi & MQTT. The No WiFi version does not have any configuration options.
 
-After the firmware is flashed, the ratgdo will reboot and attempt to connect to your wifi. Once this is succesfull, click "Visit Device" from the ESP Web Tools page and you will be presented with ratgdo's configuration page. 
+After the firmware is flashed, the ratgdo will reboot and attempt to connect to your wifi. Once this is succesful, click "Visit Device" from the ESP Web Tools page and you will be presented with ratgdo's configuration page. 
 
 **Security Note:** after the initial configuraiton is made, the device's config page will be loosely protected by an http basic authentication challenge. The username is the device name (case sensitive) and the password is the OTA Password that you specified. For stronger protection, check the _Disable OTA_ checkbox and the firmware will completely disable the http web & ArduinoOTA services. With these services disabled, the only way to update the configuration is to reflash the firmware with a USB cable. 
 

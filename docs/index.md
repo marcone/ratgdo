@@ -86,7 +86,7 @@ The ratgdo board has a pair of holes in it which can be used to physically mount
 ## Disclaimer
 Use this device at your own risk. To avoid risk of injury or property damage only operate the garage door within line of sight.
 
-ratgdo is a product of ratCloud llc and is not affiliated in anyway with the Chamberlain Group.
+ratgdo is a product of ratCloud llc and is not affiliated in any way with the Chamberlain Group.
 
 Security +, Security + 2.0, myQ are trademarks of the Chamberlain Group.
 
